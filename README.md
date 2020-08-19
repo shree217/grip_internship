@@ -21,8 +21,8 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 >Data can be found at https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
 
 **Solution**
-<img src="https://github.com/shree217/grip_internship/blob/master/Capture1.JPG">
-<img src="https://github.com/shree217/grip_internship/blob/master/Capture.JPG">
+<img src="https://github.com/shree217/grip_internship/blob/master/Capture1.JPG" height="450" width="400">
+<img src="https://github.com/shree217/grip_internship/blob/master/Capture.JPG" height="450" width="450">
 
 ## Task 4 - Decision Tree Alogithm (Decision Tree Clasifier):
 
